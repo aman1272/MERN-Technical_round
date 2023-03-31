@@ -87,7 +87,7 @@ const SignUp = () => {
                             label="Password"
                         />
                     </FormControl>
-                    <button className="secondary" onClick={handleClick} >Sign In</button>
+                    <button className="secondary" onClick={handleClick} >Sign Up</button>
                 </div>
             </div>
             <div className="d-flex2">
